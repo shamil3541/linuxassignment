@@ -1,0 +1,5 @@
+echo "Name:Bryan Isaac Eapen.v"
+echo "Roll no:21"
+echo "Class:EV4"
+echo "Date:$(date '+%d-%m-%Y')"
+echo "Tiime:$(date '+%H:%M:%S')"
